@@ -1,0 +1,21 @@
+[submodule "first_robotics"]
+	path = first_robotics
+	url = git@github.com:nepi-engine/first_robotics.git
+[submodule "mate_robotics"]
+	path = mate_robotics
+	url = git@github.com:nepi-engine/mate_robotics.git
+[submodule "stem_education"]
+	path = stem_education
+	url = git@github.com:nepi-engine/stem_education.git
+[submodule "hardware_drivers"]
+	path = hardware_drivers
+	url = git@github.com:nepi-engine/hardware_drivers.git
+[submodule "ai_projects"]
+	path = ai_projects
+	url = git@github.com:nepi-engine/ai_projects.git
+[submodule "automation_scripts"]
+	path = automation_scripts
+	url = git@github.com:nepi-engine/automation_scripts.git
+[submodule "application_projects"]
+	path = application_projects
+	url = git@github.com:nepi-engine/application_projects.git
